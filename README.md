@@ -4,7 +4,7 @@ All about my tasks in internship at Dsoft JSC from 05/2021-07/2021
 - About Linux basic commands & Vim
 - About pip & python ide
 - About python introduction
-- About python naming conventions and unitest
+- About python naming conventions & unitest
 - About python intermediate
 - About python oop & UML
 
