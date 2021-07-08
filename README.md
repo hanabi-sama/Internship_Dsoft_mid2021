@@ -7,4 +7,5 @@ All about my tasks in internship at Dsoft JSC from 05/2021-07/2021
 - About python naming conventions & unitest
 - About python intermediate
 - About python oop & UML
-
+Imperative and declarative programing languages use in this time :
+- Python
